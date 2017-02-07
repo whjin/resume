@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e3374c0-fae5-40b0-9443-54f1e033f923" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/wuhuajin.pdf" afterPath="$PROJECT_DIR$/static/wuhuajin.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -28,8 +26,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2221">
-              <caret line="5" column="199" lean-forward="false" selection-start-line="5" selection-start-column="199" selection-end-line="5" selection-end-column="199" />
+            <state relative-caret-position="330">
+              <caret line="11" column="562" lean-forward="false" selection-start-line="11" selection-start-column="562" selection-end-line="11" selection-end-column="562" />
               <folding />
             </state>
           </provider>
@@ -154,8 +152,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Blog\resume\static" />
       <recent name="D:\Blog\resume" />
+      <recent name="D:\Blog\resume\static" />
       <recent name="D:\Blog-whjin-Tech\resume" />
     </key>
   </component>
@@ -252,12 +250,12 @@
       <workItem from="1484557730387" duration="56000" />
       <workItem from="1484557838233" duration="257000" />
       <workItem from="1484815399210" duration="279000" />
-      <workItem from="1486451275283" duration="493000" />
+      <workItem from="1486451275283" duration="801000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11729000" />
+    <option name="totallyTimeSpent" value="12037000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1932" height="1048" extended-state="0" />
@@ -385,10 +383,18 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/static/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2221">
-          <caret line="5" column="199" lean-forward="false" selection-start-line="5" selection-start-column="199" selection-end-line="5" selection-end-column="199" />
+        <state relative-caret-position="330">
+          <caret line="11" column="562" lean-forward="false" selection-start-line="11" selection-start-column="562" selection-end-line="11" selection-end-column="562" />
           <folding />
         </state>
       </provider>
