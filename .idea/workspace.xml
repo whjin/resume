@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e3374c0-fae5-40b0-9443-54f1e033f923" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/wuhuajin.pdf" afterPath="$PROJECT_DIR$/static/wuhuajin.pdf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
@@ -23,7 +24,20 @@
     <favorites_list name="vitae" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="329">
+              <caret line="11" column="10974" lean-forward="true" selection-start-line="11" selection-start-column="10974" selection-end-line="11" selection-end-column="10974" />
+              <folding>
+                <element signature="e#12572#12578#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -61,10 +75,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="355" />
-    <option name="y" value="201" />
-    <option name="width" value="992" />
-    <option name="height" value="750" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -117,7 +131,7 @@
     <property name="settings.editor.selected.configurable" value="Errors" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../master" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="nodejs_interpreter_path" value="D:/nodejs/node" />
     <property name="js.eslint.eslintPackage" value="" />
@@ -232,18 +246,18 @@
       <workItem from="1487754740077" duration="32000" />
       <workItem from="1488273556631" duration="363000" />
       <workItem from="1488377406724" duration="1461000" />
-      <workItem from="1488512662030" duration="98000" />
+      <workItem from="1488512662030" duration="1562000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17201000" />
+    <option name="totallyTimeSpent" value="18665000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="355" y="201" width="992" height="750" extended-state="0" />
-    <editor active="false" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.261807" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1328125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -371,8 +385,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="11" column="10838" lean-forward="true" selection-start-line="11" selection-start-column="10838" selection-end-line="11" selection-end-column="10838" />
+        <state relative-caret-position="648">
+          <caret line="11" column="12373" lean-forward="true" selection-start-line="11" selection-start-column="11799" selection-end-line="11" selection-end-column="12373" />
+          <folding>
+            <element signature="e#12572#12578#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="11" column="10974" lean-forward="true" selection-start-line="11" selection-start-column="10974" selection-end-line="11" selection-end-column="10974" />
           <folding>
             <element signature="e#12572#12578#0" expanded="true" />
           </folding>
