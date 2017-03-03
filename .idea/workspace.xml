@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e3374c0-fae5-40b0-9443-54f1e033f923" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/wuhuajin.pdf" afterPath="$PROJECT_DIR$/static/wuhuajin.pdf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
@@ -28,10 +27,10 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="11" column="10974" lean-forward="true" selection-start-line="11" selection-start-column="10974" selection-end-line="11" selection-end-column="10974" />
+            <state relative-caret-position="126">
+              <caret line="11" column="9661" lean-forward="true" selection-start-line="11" selection-start-column="9661" selection-end-line="11" selection-end-column="9661" />
               <folding>
-                <element signature="e#12572#12578#0" expanded="true" />
+                <element signature="e#12570#12576#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -95,8 +94,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -125,13 +122,15 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="Errors" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="nodejs_interpreter_path" value="D:/nodejs/node" />
     <property name="js.eslint.eslintPackage" value="" />
@@ -246,12 +245,13 @@
       <workItem from="1487754740077" duration="32000" />
       <workItem from="1488273556631" duration="363000" />
       <workItem from="1488377406724" duration="1461000" />
-      <workItem from="1488512662030" duration="1562000" />
+      <workItem from="1488512662030" duration="1685000" />
+      <workItem from="1488526360104" duration="47000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18665000" />
+    <option name="totallyTimeSpent" value="18835000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -288,6 +288,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -387,18 +395,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="648">
           <caret line="11" column="12373" lean-forward="true" selection-start-line="11" selection-start-column="11799" selection-end-line="11" selection-end-column="12373" />
-          <folding>
-            <element signature="e#12572#12578#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="11" column="10974" lean-forward="true" selection-start-line="11" selection-start-column="10974" selection-end-line="11" selection-end-column="10974" />
+        <state relative-caret-position="648">
+          <caret line="11" column="12373" lean-forward="false" selection-start-line="11" selection-start-column="11799" selection-end-line="11" selection-end-column="12373" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="11" column="9661" lean-forward="true" selection-start-line="11" selection-start-column="9661" selection-end-line="11" selection-end-column="9661" />
           <folding>
-            <element signature="e#12572#12578#0" expanded="true" />
+            <element signature="e#12570#12576#0" expanded="true" />
           </folding>
         </state>
       </provider>
