@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e98480d2-7db8-414a-9e0c-0f6a4e3e82a7" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/wuhuajin.pdf" afterPath="$PROJECT_DIR$/static/wuhuajin.pdf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
@@ -60,6 +61,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -89,7 +91,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -102,8 +103,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Blog\resume" />
       <recent name="D:\Blog\resume\static" />
+      <recent name="D:\Blog\resume" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html">
@@ -201,11 +202,12 @@
       <workItem from="1491886281141" duration="132000" />
       <workItem from="1491887267175" duration="92000" />
       <workItem from="1491896951462" duration="42000" />
+      <workItem from="1491905003628" duration="71000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1454000" />
+    <option name="totallyTimeSpent" value="1525000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -346,8 +348,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="706">
-          <caret line="18" column="11272" lean-forward="false" selection-start-line="18" selection-start-column="11272" selection-end-line="18" selection-end-column="11272" />
+        <state relative-caret-position="648">
+          <caret line="18" column="11413" lean-forward="false" selection-start-line="18" selection-start-column="10839" selection-end-line="18" selection-end-column="11413" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="619">
+          <caret line="18" column="10704" lean-forward="false" selection-start-line="18" selection-start-column="10704" selection-end-line="18" selection-end-column="10704" />
           <folding />
         </state>
       </provider>
