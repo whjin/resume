@@ -61,6 +61,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -90,7 +91,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -205,11 +205,12 @@
       <workItem from="1491905003628" duration="71000" />
       <workItem from="1492230118724" duration="470000" />
       <workItem from="1492479878131" duration="95000" />
+      <workItem from="1492739070864" duration="899000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2090000" />
+    <option name="totallyTimeSpent" value="2989000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1932" height="1048" extended-state="0" />
@@ -374,8 +375,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="880">
-          <caret line="18" column="8356" lean-forward="false" selection-start-line="18" selection-start-column="8356" selection-end-line="18" selection-end-column="8356" />
+        <state relative-caret-position="666">
+          <caret line="18" column="8933" lean-forward="false" selection-start-line="18" selection-start-column="8359" selection-end-line="18" selection-end-column="8933" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="18" column="8792" lean-forward="false" selection-start-line="18" selection-start-column="8792" selection-end-line="18" selection-end-column="8792" />
           <folding />
         </state>
       </provider>
