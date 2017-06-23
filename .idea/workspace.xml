@@ -30,8 +30,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/1.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/index1.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -62,7 +62,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -92,6 +91,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -228,11 +228,12 @@
       <workItem from="1497865942702" duration="193000" />
       <workItem from="1498011359703" duration="30000" />
       <workItem from="1498147525609" duration="64000" />
+      <workItem from="1498219684786" duration="255000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7217000" />
+    <option name="totallyTimeSpent" value="7472000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1924" height="1048" extended-state="0" />
@@ -498,15 +499,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="648">
           <caret line="18" column="13952" lean-forward="true" selection-start-line="18" selection-start-column="13378" selection-end-line="18" selection-end-column="13952" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
-          <caret line="18" column="13117" lean-forward="false" selection-start-line="18" selection-start-column="13117" selection-end-line="18" selection-end-column="13117" />
-          <folding />
+        <state relative-caret-position="648">
+          <caret line="18" column="13729" lean-forward="false" selection-start-line="18" selection-start-column="13729" selection-end-line="18" selection-end-column="13729" />
+          <folding>
+            <element signature="e#14412#14418#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
