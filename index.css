@@ -124,7 +124,7 @@ dl, ol, ul {
     width: 100%
 }
 
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 768px) {
     .column-12 {
         width: 100%;
         float: none;
@@ -136,7 +136,7 @@ dl, ol, ul {
     width: 91.66666667%
 }
 
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 768px) {
     .column-11 {
         width: 100%;
         float: none;
@@ -148,7 +148,7 @@ dl, ol, ul {
     width: 83.33333333%
 }
 
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 768px) {
     .column-10 {
         width: 100%;
         float: none;
@@ -160,7 +160,7 @@ dl, ol, ul {
     width: 75%
 }
 
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 768px) {
     .column-9 {
         width: 100%;
         float: none;
@@ -172,7 +172,7 @@ dl, ol, ul {
     width: 66.66666667%
 }
 
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 768px) {
     .column-8 {
         width: 100%;
         float: none;
@@ -184,7 +184,7 @@ dl, ol, ul {
     width: 58.33333333%
 }
 
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 768px) {
     .column-7 {
         width: 100%;
         float: none;
@@ -196,7 +196,7 @@ dl, ol, ul {
     width: 50%
 }
 
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 768px) {
     .column-6 {
         width: 100%;
         float: none;
@@ -208,7 +208,7 @@ dl, ol, ul {
     width: 41.66666667%
 }
 
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 768px) {
     .column-5 {
         width: 100%;
         float: none;
@@ -220,7 +220,7 @@ dl, ol, ul {
     width: 33.33333333%
 }
 
-@media print or (max-width: 992px) {
+@media print and (max-width: 768px) {
     .column-4 {
         width: 100%
     }
@@ -230,7 +230,7 @@ dl, ol, ul {
     width: 25%
 }
 
-@media print or (max-width: 992px) {
+@media print and (max-width: 768px) {
     .column-3 {
         width: 75%
     }
@@ -240,7 +240,7 @@ dl, ol, ul {
     width: 16.66666667%
 }
 
-@media print or (max-width: 992px) {
+@media print and (max-width: 768px) {
     .column-2 {
         width: 50%
     }
@@ -250,7 +250,7 @@ dl, ol, ul {
     width: 8.33333333%
 }
 
-@media print or (max-width: 992px) {
+@media print and (max-width: 768px) {
     .column-1 {
         width: 25%
     }
@@ -260,7 +260,7 @@ dl, ol, ul {
     width: 0
 }
 
-@media print or (max-width: 992px) {
+@media print and (max-width: 768px) {
     .column-0 {
         width: 0
     }
@@ -295,7 +295,7 @@ header {
     margin: 0
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 768px) {
     .title {
         float: none;
         text-align: center
@@ -325,7 +325,7 @@ header .contact {
     padding-left: 16px
 }
 
-@media print or (max-width: 767px) {
+@media print and (max-width: 768px) {
     header .contact {
         float: none;
         margin-top: 10px;
@@ -509,7 +509,7 @@ section {
     margin: 0
 }
 
-@media (max-width: 767px) {
+@media (max-width: 768px) {
     .timeline-content {
         margin-left: -10px
     }
@@ -598,7 +598,7 @@ section {
     margin: 0
 }
 
-@media (max-width: 767px) {
+@media (max-width: 768px) {
     .language-cert-wrapper .progress {
         float: right;
         width: 75%
@@ -788,7 +788,7 @@ aside .link:active, aside .link:hover {
     background-color: rgba(0, 0, 0, .6)
 }
 
-@media (max-width: 767px) {
+@media (max-width: 768px) {
     aside {
         position: relative;
         display: table;
@@ -826,7 +826,7 @@ aside a:active, aside a:hover, aside a:link, aside a:visited {
     margin-top: 10px
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 768px) {
     .container {
         padding: 5px 0;
         margin-top: 0
@@ -839,7 +839,7 @@ aside a:active, aside a:hover, aside a:link, aside a:visited {
     }
 }
 
-@media screen and (min-width: 992px) {
+@media screen and (min-width: 768px) {
     .container {
         width: 970px
     }
@@ -855,7 +855,7 @@ aside a:active, aside a:hover, aside a:link, aside a:visited {
     padding: 30px 45px
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 768px) {
     .content, header {
         padding: 30px 10px;
         margin-top: 0;
@@ -863,7 +863,7 @@ aside a:active, aside a:hover, aside a:link, aside a:visited {
     }
 }
 
-@media screen and (min-width: 992px) {
+@media screen and (min-width: 768px) {
     .invisible-lt-sm {
         display: block
     }
@@ -873,7 +873,7 @@ aside a:active, aside a:hover, aside a:link, aside a:visited {
     }
 }
 
-@media screen and (max-width: 991px) {
+@media screen and (max-width: 768px) {
     .invisible-lt-sm {
         display: none
     }
