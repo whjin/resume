@@ -1,0 +1,49 @@
+.experience-place, .experience-project-type {
+    float: left;
+}
+
+.experience-time, .experience-title-link {
+    float: right;
+}
+
+.experience-position, .experience-project-name {
+    font-size: @font-size-medium;
+    font-weight: bold;
+    margin: @padding-large-vertical 0 @padding-small-vertical 0;
+}
+
+.experience-task {
+    padding-left: 0;
+    margin: 0;
+}
+
+.experience-title-aside {
+  float: right;
+  list-style-type: none;
+}
+
+.experience-project-link {
+  border-radius: @border-radius-large;
+  padding: @padding-xs-vertical @padding-small-horizontal;
+  background-color: white;
+  font-size: @font-size-small;
+  margin-left: @padding-small-horizontal;
+}
+
+.experience-project-link:link,
+.experience-project-link:visited {
+  color: @text-color;
+}
+
+.experience-project-link:hover,
+.experience-project-link:active {
+  color: @text-color;
+  background-color: fade(white, 80%);
+}
+
+.set-section-icon(experience, @fa-var-rocket);
+.set-timeline-icon(experience-internship, @fa-var-briefcase);
+.set-timeline-icon(experience-project, @fa-var-rocket);
+
+.set-li-icon(experience-task, @fa-var-gear);
+.set-small-li-icon(experience-project-link, @fa-var-link);

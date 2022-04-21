@@ -1,0 +1,203 @@
+{
+  "data_lang": "zh-CN",
+  "ga_id": "UA-71624765-5",
+  "resume_title": "吴华锦 - 前端工程师",
+  "name": "吴华锦",
+  "repo": "git@user.github.com:whjin/resume.git",
+  "job_description": [
+    "前端工程师"
+  ],
+  "contact": {
+    "sinaweibo": {
+      "id": "华锦",
+      "url": "http://weibo.com/boyatazhizi"
+    },
+    "wechat": {
+      "id": "13927419410",
+      "qrcode": "static/wechat.svg"
+    },
+    "email": "wuhuajin09@163.com",
+    "github": {
+      "id": "whjin"
+    },
+    "blog": {
+      "url": "https://whjin.github.io/blog"
+    }
+  },
+  "links": [
+    {
+      "type": "homepage",
+      "url": "https://whjin.github.io/blog"
+    },
+    {
+      "type": "segmentfault",
+      "url": "https://segmentfault.com/u/whjin/"
+    },
+    {
+      "type": "repo",
+      "url": "https://github.com/whjin/resume"
+    },
+    {
+      "type": "pdf",
+      "url": "static/wuhuajin.pdf"
+    }
+  ],
+  "education": [
+    {
+      "type": "undergraduate",
+      "name": "深圳大学",
+      "major": "电子信息工程",
+      "start": "2009",
+      "end": "2013",
+      "honor": [
+        "优秀义工/学业奖学金"
+      ]
+    }
+  ],
+  "language": [
+    {
+      "type": "english",
+      "certificate": [
+        {
+          "type": "CET-6"
+        }
+      ],
+      "description": [
+        "流畅阅读英文专业书籍、技术文档及学习平台课程。"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "type": "internship",
+      "techtype": "frontend",
+      "place": "广州市高科通信技术股份有限公司",
+      "start": "2020.06",
+      "end": "至今",
+      "name": "高级前端工程师",
+      "description": [
+        "`智能终端系统：`该系统包括`管控主机、仓内屏、仓外屏、后台管理系统、用户管理系统、终端调试工具、移动警务终端`等子系统。",
+        "使用技术栈 `Vue/Vuex/VueRouter/UniApp/iViewUI /ElementUI/Less/WebSocket` 等。",
+        "`担任技术 Owner 参与了从零到一的建设，负责项目期间同时推进前后端的流程规范化、工程化、标准化工作。`新成员加入后重点负责核心功能模块开发，包括视频对讲报警功能实现、高性能组件封装、公共方法设计和前端开发规范培训等。",
+        "主要工作成绩：路由跳转页面重构为组件加载的开发模式，使用异步组件、功能组件、样式组件等方式，极大提升了系统开发效率和用户交互体验。通过模块即组件、静态数据封装、公用样式/方法封装等方式，团队成员独立开发维护任务模块，封装组件统一维护统一调用，提升了项目的迭代效率和降低维护成本。",
+        "`远程系列产品：`该系列产品包括律师会见和远程提讯两个主产品，每个产品分别开发前台系统和后台管理系统。负责项目前端重构和功能模块的开发工作，包括文件架构设计、冗余代码的清理、公共样式方法重新封装、交互流程重新梳理等，提高代码整洁度、干净度和复用性，方便后续人员进行功能迭代开发。"
+      ],
+      "stack": [
+        "HTML5",
+        "jQuery",
+        "NodeJS",
+        "Vue",
+        "Less",
+        "CSS3",
+        "ElementUI"
+      ],
+      "compatibility": "IE8+"
+    },
+    {
+      "type": "internship",
+      "techtype": "frontend",
+      "place": "广州市唯景互娱信息科技有限公司",
+      "start": "2019.10",
+      "end": "2020.06",
+      "name": "前端工程师",
+      "description": [
+        "`排班系统：`该系统包括`模拟机排班系统、电子化资料训练系统`等子系统。",
+        "使用技术栈 `Vue/Vuex/VueRouter/ElementUI/ Less/WebSocket/Axios/jQuery` 等。 ",
+        "主要工作成绩：重新设计并优化月计划、年计划、预约模块的页面排版，更加符合客户的设计要求。",
+        "`解决 H5 属性 Drag 和 Drop 不支持 IOS 端的问题`，使用插件 `mobile-drag-drop/scroll-behaviour`，UA 判定设备类型，自定义指令注册 相应对象，实现系统在多端环境下流畅交互的业务目标。",
+        "`使用 classList 的 add/remove 方法封装公共方法，彻底解决拖放同机组课程时，动态 class 渲染 DOM 出现卡死的性能问题`，推动项目的开发进度以及获得客户的充分认可。",
+        "`根据客户需求改造 HTTP 请求为 WebSocket 数据传输方式`，与后端人员讨论确定整体数据格式，提升团队成员间的协作效率。",
+        "使用 `Vue/Vuex/UniApp/Less/VantUI` 搭建适配 iPad 的电子化资料训练系统开发框架，设计统一的数据接口请求方法，整体使用动态组件模式进行页面 加载，交互效率较为理想。",
+        "`西域游网站：`该网站为新疆旅游电子商务平台，需求为对旧网站进行改造更新，包括前台网站和后台管理系统。技术栈由原来的 `jQuery` 转为 `Vue` 全家桶。",
+        "负责网站（首页、注册登录、搜索栏、动态菜单栏、侧边栏等）布局设计和搭建后台管理系统开发框架。",
+        "该项目难点在于首次开发电商项目缺乏经验，多家企业参与采用敏捷开发模式，时间紧任务重，需要花更多时间熟悉电商网站的开发流程和细节，不同城市不同团队间协同开发，增加了沟通成本。经过三个多月的精诚合作、加班加点、克服困难，终于交付网站的第一版设计，获得客户的认可。"
+      ],
+      "stack": [
+        "HTML5",
+        "jQuery",
+        "NodeJS",
+        "Vue",
+        "Less",
+        "CSS3",
+        "ElementUI"
+      ],
+      "compatibility": "IE8+"
+    },
+    {
+      "type": "internship",
+      "techtype": "frontend",
+      "place": "深圳市共济科技股份有限公司",
+      "start": "2013.07",
+      "end": "2019.04",
+      "name": "组态设计工程师",
+      "description": [
+        "负责监控系统组态设计、参与产品升级预研、模板库开发和新产品交付项目落地等工作，主要工作成绩包括独立完成数百个数据机房监控组态设计项目，多次获得年度优秀项目、优秀团队和优秀个人奖。2017年开始自学前端，积极参与公司官网升级改造、新产品H5宣传页设计、展厅大屏展示页设计等工作。"
+      ],
+      "stack": [
+        "PS",
+        "CAD",
+        "AutoDesk",
+        "HTML5",
+        "jQuery",
+        "jQuery UI",
+        "Bootstrap",
+        "Swiper",
+        "Media Queries"
+      ],
+      "compatibility": "IE8+"
+    }
+  ],
+  "skills": [
+    {
+      "type": "frontend",
+      "item": [
+        {
+          "summary": "`HTML5/CSS3/ES6`",
+          "description": [
+            "熟悉标准化的 `HTML5/CSS3/ES6` 特性，编写语义化的 `HTML`，实现复杂的页面布局和交互功能，在项目中实践 `ES6` 新特性，提升代码简洁性和开发效率。",
+            "熟悉原生 `DOM` 和 `BOM` 的使用及相关标准，持续跟进 `MDN` 与 `W3C` 文档，不断加深前端核心技能的掌握程度。",
+            "熟练使用 `Vue/Vuex/VueRouter/UniApp/Less` 及 `UI` 库技术栈，快速完成产品原型开发和项目交付落地。",
+            "熟练使用 `WebPack、RequireJS、import/export` 等多种模块化解决方案和 `Less/Sass` 等预处理工具。"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "backend",
+      "item": [
+        {
+          "summary": "`Node.js`",
+          "description": [
+            "能够使用 `NodeJS API` 或 `EggJS` 搭建后台服务与数据库交互，渲染页面模板和提供 `RESTful API` 接口。",
+            "熟悉 `WebSocket` 通信协议 `API`，实现协同办公、在线聊天、数据通信等应用场景，提升服务性能和交互体验。",
+            "了解 `HTTP` 协议、`MongoDB/MySQL` 数据库、`Java` 语言特性和 `SpringBoot` 开发框架，不断学习后端开发细节，提升前后端协作效率。"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "practice",
+      "item": [
+        {
+          "summary": "`APP/小程序/网站/博客/开源`",
+          "description": [
+            "使用 `Vue全家桶、UniApp、Less、Flex/Grid、WebSocket` 等技术开发并交付终端系统 `APP`。",
+            "熟练使用`原生前端技术和Vue、React框架`开发企业网站、电商平台和后台管理系统，优化性能提升网站响应速度和交互体验。",
+            "研究小程序开发流程细节，使用原生、框架开发知识类和电商类小程序",
+            "使用 `Jekyll/Hexo/Hugo/Typecho/Ghost` 等框架折腾个人博客并部署在 `GitHub Pages`，用于记录学习工作中遇到的技术难点的解决思路。",
+            "在 `GitHub` 上开源封装的通用组件、工具库和解决方案，参与论坛中技术难题的讨论和解决，关注前端技术领域的最新动态。"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "miscellaneous",
+      "item": [
+        "了解 `Linux` 的基本操作，常用命令与配置，能编写简单的 `bash` 脚本。",
+        "具备基本的 `Web` 安全知识，对 `XSS、CSRF、同源策略、跨域、CORS` 等一定的了解。",
+        "能够使用 `PhotoShop/Illustrator` 完成页面、图标、矢量图及相关设计。",
+        "熟练使用 `Git` 、 `VSCode` 进行开发，也乐于尝试新工具，使用 `Markdown` 编写中英文文档，具备良好的技术交流能力。"
+      ]
+    }
+  ]
+}
