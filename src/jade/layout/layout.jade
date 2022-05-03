@@ -1,0 +1,29 @@
+include ../mixins/ga.jade
+
+doctype html
+<!--[if lte IE 8]>
+| <html lang="#{data_lang}" class="lte-ie8">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+| <html lang="#{data_lang}">
+<!--<![endif]-->
+<base target=_blank>
+head
+    meta(charset='utf-8')
+    block title
+    meta(name='viewport', content='width=device-width, initial-scale=1.0')
+    script(src='//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js', async)
+    block style
+    if ga_id
+        +ga(ga_id)
+
+body
+    block IEcondition
+
+    block sidebar
+    .container
+        main
+            block header
+            block content
+    block footer
+| </html>
