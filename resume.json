@@ -75,43 +75,44 @@
     {
       "type": "internship",
       "techtype": "frontend",
-      "place": "广州市高科通信技术股份有限公司",
+      "place": "高科通信",
       "start": "2020.06",
       "end": "至今",
       "name": "高级前端工程师",
       "description": [
-        "`智能终端系统`：智能交互终端仓内屏 `APP`/仓外屏`APP`/管控主机 `APP`/移动警务终端 `APP`/管理系统 `Web`/调试工具 `Web` 等全产品线前端开发负责人，完成整体开发任务，同时推进前后端协同开发流程和规范。",
-        "`远程系列产品`：负责律师会见 `Web`/远程提讯 `Web` 系统项目重构工作，由原生架构重构为 `Vue` 生态架构开发模式，重组项目结构，重写功能代码，封装复用组件，优化整体性能，输出开发规范文档等。"
+        "智能终端项目组产品线前端开发负责人，负责监管类终端系统APP、管理后台和工具类开发。输出前端组开发规范，组织团队代码评审、技术预研以及构建前端技术栈。使用技术`Vue2全家桶、ElementPlus、iView、WebPack、UniApp、Less/Sass、Nodejs`等。智能终端产品支撑多个项目的顺利交付及项目应标，项目组的高效响应和对产品的高度责任感，得到客户和公司的一致认可，获得年度优秀项目组，项目组负责人获得年度优秀员工称号。",
+        "负责律师会见和远程提讯系统的前端研发工作，梳理项目架构重写部分功能模块、封装组件方法提升可复用性、优化代码质量增强项目的可维护性。",
+        "当前负责国产化新产品的前端研发工作，使用技术 `Vue3全家桶、UniApp、Linux、Kylin、Electron、HTML5、WebRTC、Nodejs` 等。快速响应公司业务发展方向，开发适应市场需求的新一代产品，提升公司整体竞争力。"
       ],
       "stack": [
-        "HTML5",
-        "jQuery",
+        "Vue3",
         "NodeJS",
-        "Vue",
+        "WebPack",
+        "UniApp",
         "Less",
-        "CSS3",
-        "ElementUI"
+        "iView",
+        "ElementPlus"
       ],
       "compatibility": "IE8+"
     },
     {
       "type": "internship",
       "techtype": "frontend",
-      "place": "广州市唯景互娱信息科技有限公司",
-      "start": "2019.10",
+      "place": "唯景互娱",
+      "start": "2017.10",
       "end": "2020.06",
       "name": "前端工程师",
       "description": [
-        "`排班系统`：负责飞行模拟机排班系统 `Web` 和电子化资料训练系统 `IOS` 的前端开发任务，完成排班系统核心模块开发、整体性能优化、技术难点攻关等，推进前后端 对接流程，前端团队协同开发规范。",
-        "`西域游网站`：负责网站的整体布局和数据对接，跟进需求快速输出原型，同步开发后台管理系统，不断迭代新功能，持续交付网站版本。"
+        "负责飞行模拟机排班系统和电子化资料训练系统的前端开发，参与项目需求分析、技术选型及开发任务推进。使用技术 `Vue2全家桶、ElementUI、HTML5、WebPack、Nodejs、UniApp、Less、jQuery` 等。HTTP 请求改造为 WebSocket 请求流程和处理方法设计，优化交互性能和输出解决方案，封装样式组件及 功能方法，组织组内技术分享提升团队学习氛围和协同效率。认真负责、严谨细致的工作风格获得客户和领导的一致认可，不断学习钻研技术的态度获得团队伙伴的赞赏。",
+        "负责旅游电商网站和后台管理系统的前端开发，使用技术 `Vue2全家桶、Nodejs、WebPack、jQuery、ElementUI、Less` 等。设计网站原型和数据交互方法，根据需求不断迭代网站版本，完成项目的交付。"
       ],
       "stack": [
-        "HTML5",
-        "jQuery",
+        "Vue3",
         "NodeJS",
-        "Vue",
+        "WebPack",
+        "UniApp",
         "Less",
-        "CSS3",
+        "HTML5",
         "ElementUI"
       ],
       "compatibility": "IE8+"
@@ -119,12 +120,12 @@
     {
       "type": "internship",
       "techtype": "frontend",
-      "place": "深圳市共济科技股份有限公司",
+      "place": "共济科技",
       "start": "2013.07",
-      "end": "2019.04",
+      "end": "2017.09",
       "name": "组态设计工程师",
       "description": [
-        "负责监控系统组态设计、参与产品升级预研、模板库开发和新产品交付项目落地等工作，主要工作成绩包括独立完成数百个数据机房监控组态设计项目，多次获得年度优秀项目、优秀团队和优秀个人奖。2017年开始自学前端，积极参与公司官网升级改造、新产品H5宣传页设计、展厅大屏展示页设计等工作。"
+        "负责数据中心机房监控系统组态设计，深交所大厦、太平金融大厦、建设银行等数据中心机房监控系统组态设计，参与南方电网数据中心机房监控系统升级改造和新产品研发工作。微模块产品推广网站和 H5 宣传页以及公司官网、招聘网站前端设计。"
       ],
       "stack": [
         "PS",
@@ -145,12 +146,12 @@
       "type": "frontend",
       "item": [
         {
-          "summary": "`HTML5/CSS3/ES6`",
+          "summary": "`HTML5/CSS3/ECMAScript`",
           "description": [
-            "熟悉标准化的 `HTML5/CSS3/ES6` 特性，编写语义化的 `HTML`，实现复杂的页面布局和交互功能，在项目中实践 `ES6` 新特性，提升代码简洁性和开发效率。",
-            "熟悉原生 `DOM` 和 `BOM` 的使用及相关标准，持续跟进 `MDN` 与 `W3C` 文档，不断加深前端核心技能的掌握程度。",
-            "熟练使用 `Vue/Vuex/VueRouter/UniApp/Less` 及 `UI` 库技术栈，快速完成产品原型开发和项目交付落地。",
-            "熟练使用 `WebPack、RequireJS、import/export` 等多种模块化解决方案和 `Less/Sass` 等预处理工具。"
+            "熟悉标准化`HTML5/CSS3/ECMAScript`特性，实现复杂的页面布局和交互功能。",
+            "熟悉原生 `DOM 和 BOM` 的使用及相关标准，有丰富的前端组件开发经验。",
+            "熟练使用 `Vue 全家桶、Nodejs、UniApp、iView、ElementUI、Less/Sass、WebSocket` 等，对前后端分离开发模式有深入理解并有丰富的项目开发经验。",
+            "熟练使用 `WebPack、ES6 Module、CommonJS、AMD、Less/Sass` 等多种模块化解决方案。"
           ]
         }
       ]
@@ -159,11 +160,10 @@
       "type": "backend",
       "item": [
         {
-          "summary": "`Node.js`",
+          "summary": "`Nodejs/Java/HTTP`",
           "description": [
-            "能够使用 `NodeJS API` 或 `EggJS` 搭建后台服务与数据库交互，渲染页面模板和提供 `RESTful API` 接口。",
-            "熟悉 `WebSocket` 通信协议 `API`，实现协同办公、在线聊天、数据通信等应用场景，提升服务性能和交互体验。",
-            "了解 `HTTP` 协议、`MongoDB/MySQL` 数据库、`Java` 语言特性和 `SpringBoot` 开发框架，不断学习后端开发细节，提升前后端协作效率。"
+            "熟悉 `Nodejs Web` 应用开发，了解 `HTTP 协议、MongoDB/MySQL、Java` 语言特性和后端开发框架。",
+            "具有良好的代码风格和较强的学习能力，对前端交互设计有深刻的认识，有 强烈的创新精神并能付诸实践，积极学习业界新技术，扩宽技术视野、丰富 开发经验以及加深产品意识。"
           ]
         }
       ]
@@ -172,9 +172,9 @@
       "type": "practice",
       "item": [
         {
-          "summary": "`APP/小程序/网站/博客/开源`",
+          "summary": "`移动APP/桌面应用/开源社区`",
           "description": [
-            "使用 `Vue全家桶、UniApp、Less、Flex/Grid、WebSocket` 等技术开发并交付终端系统 `APP`。",
+            "使用 `Vue3全家桶、UniApp、Less、Flex/Grid、WebSocket` 等技术开发并交付终端系统 `APP`。",
             "熟练使用`原生前端技术和Vue、React框架`开发企业网站、电商平台和后台管理系统，优化性能提升网站响应速度和交互体验。",
             "研究小程序开发流程细节，使用原生、框架开发知识类和电商类小程序",
             "使用 `Jekyll/Hexo/Hugo/Typecho/Ghost` 等框架折腾个人博客并部署在 `GitHub Pages`，用于记录学习工作中遇到的技术难点的解决思路。",
