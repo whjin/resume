@@ -3,18 +3,18 @@ module.exports = {
     "internship": ""
   },
   skill_type: {
-    "frontend": "Web 前端",
-    "backend": "Web 后端",
-    "practice": "前端工程实践",
-    "miscellaneous": "其他",
+    "frontend": "项目技术",
+    "backend": "预研技术",
+    "practice": "项目实战",
+    "miscellaneous": "开发工具",
   },
   education_type: {
-    "undergraduate": "（本科）"
+    "undergraduate": "（全日制本科）"
   },
   link_type: {
-    "homepage": "技术博客",
-    "segmentfault": "技术论坛",
-    "repo": "源代码",
+    "homepage": "个人博客",
+    "website": "个人站点",
+    "repo": "个人简历",
     "pdf": "PDF 下载"
   },
   section_names: {

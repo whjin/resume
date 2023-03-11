@@ -12,8 +12,8 @@ module.exports = {
         "undergraduate": "(Bachelor's degree)"
     },
     link_type: {
-        "homepage": "Homepage",
-        "segmentfault": "SegmentFault",
+        "homepage": "HomePage",
+        "website": "WebSite",
         "repo": "Source",
         "pdf": "PDF"
     },
